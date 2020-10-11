@@ -2,3 +2,6 @@
 ### 1. Stock (Time Series Prediction)
 ### 2. Spam Filtering (Text Classification)
 ### 3. Rock Paper Scissors (Image Classification)
+### 4. COVID19 Prediction (Image Classification)
+### 5. Heart Disease Classification (Classification)
+### 6. House Price Prediction (Regression)
