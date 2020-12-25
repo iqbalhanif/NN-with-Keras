@@ -6,4 +6,4 @@
 ### 5. Heart Disease Classification (Classification)
 ### 6. House Price Prediction (Regression)
 
-All of this code werw gathered from several training courses (dtsense, dicoding, ML ID, etc.)
+All of this code were gathered from several training courses (dtsense, dicoding, ML ID, etc.)
